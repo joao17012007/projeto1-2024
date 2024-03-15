@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
 :root {
     --branco: #FFFFFF ;
     --botao-ativo: #3A375E ;
@@ -9,7 +11,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
 }
 
 .conteudo-princial {
@@ -34,7 +36,7 @@ body {
 }
 
 .botao {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
     background-color: var(--botão-inativo);
     color: var(--branco);
     display: flex;
