@@ -37,3 +37,20 @@ function calculaTempo(tempoObjetivo) {
     }
 
 }
+function atualiaCronometro(){
+for (let i=0; 1<contadores. lenghth;i++){
+    contadores[i].textcontent = calculaTempo(tempos[i]);
+}
+
+}
+
+function comecacronometro(){
+    for (let i=0; i<contadores.lenghth;i++){
+        contadores[i].textcontent = calculatempo(tempos[i]);
+    }
+}
+
+function comecacronometro(){
+    atualizacronometro();
+    setInterval(atualiaCronometro,1000);
+}

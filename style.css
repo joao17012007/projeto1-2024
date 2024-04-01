@@ -74,6 +74,31 @@ body {
             border-radius: 0 40px 0 0;
         }
     }
+.abs-textos{
+    background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40p 40px;
+
+}
+
+.aba-conteudo{
+    display: nome;    
+}
+
+.aa-conteudo-titulo-principal{
+    font-size: 28px;
+    text-aling: center:
+
+}
+.aba-conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--verde);
+    text-transform: uppercase;
+
+}
+.contador
+
+
 
 
 
